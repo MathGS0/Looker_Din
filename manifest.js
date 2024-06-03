@@ -1,7 +1,7 @@
 {
   "data": {
     "dsccConnector": {
-      "id": "your-viz-id"
+      "id": "din-viz"
     }
   },
   "scripts": {
