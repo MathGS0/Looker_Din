@@ -1,0 +1,10 @@
+{
+  "data": {
+    "dsccConnector": {
+      "id": "your-viz-id"
+    }
+  },
+  "scripts": {
+    "main": "gs://<your-bucket-name>/your-viz.js"
+  }
+}
